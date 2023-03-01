@@ -21,3 +21,8 @@ SO THAT I can create a strong password that provides greater security </p>
     THEN a password is generated that matches the selected criteria 
     WHEN the password is generated
     THEN the password is either displayed in an alert or written to the page </p>
+
+<h3> Screenshots </h3>
+
+
+<h4> Live Website </h4>
