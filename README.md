@@ -23,6 +23,7 @@ SO THAT I can create a strong password that provides greater security </p>
     THEN the password is either displayed in an alert or written to the page </p>
 
 <h3> Screenshots </h3>
+![image](https://user-images.githubusercontent.com/116978170/235272002-b38d6f4a-9d1d-41e3-814f-0535f07174b8.png)
 
 
 <h4> Live Website </h4>
