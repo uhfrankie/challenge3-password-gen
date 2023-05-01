@@ -26,8 +26,8 @@ SO THAT I can create a strong password that provides greater security </p>
 ![Screenshot (77)](https://user-images.githubusercontent.com/116978170/235543502-6c5e0494-e7f3-4579-834e-4e556f801968.png)
 
 
-Notes:
-I was unable to screenshot an image to show the applications appearance, so I tagged a link to it instead.
+## Live Site
+https://uhfrankie.github.io/challenge3-password-gen/
 
 
 
